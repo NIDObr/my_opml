@@ -7,7 +7,6 @@
     <body>
         <outline text="Linux" title="Linux">
             <outline type="rss" text="Diolinux" title="Diolinux" xmlUrl="http://feeds.feedburner.com/Diolinux" htmlUrl="https://diolinux.com.br"/>
-            <outline type="rss" text="Terminal Root" title="Terminal Root" xmlUrl="http://terminalroot.com.br/feed.xml" htmlUrl="https://terminalroot.com.br/"/>
             <outline type="rss" text="Phoronix" title="Phoronix" xmlUrl="http://feeds.feedburner.com/Phoronix" htmlUrl="https://www.phoronix.com/"/>
             <outline type="rss" text="GamingOnLinux Latest Articles" title="GamingOnLinux Latest Articles" xmlUrl="http://www.gamingonlinux.com/article_rss.php" htmlUrl="https://www.gamingonlinux.com/"/>
         </outline>
@@ -20,10 +19,13 @@
             <outline type="rss" text="Cellbit Reddit" title="Cellbit Reddit" xmlUrl="https://www.reddit.com/r/cellbits/.rss" htmlUrl=""/>
         </outline>
         <outline text="Podcast" title="Podcast">
-            <outline type="rss" text="breitengrad" title="Voce nao precisa saber" xmlUrl="https://anchor.fm/s/835c5778/podcast/rss" htmlUrl=""/>
+            <outline type="rss" text="Voce nao precisa saber" title="Voce nao precisa saber" xmlUrl="https://anchor.fm/s/835c5778/podcast/rss" htmlUrl=""/>
+            <outline type="rss" text="Diocast" title="Diocast" xmlUrl="https://anchor.fm/s/4c177cd4/podcast/rss" htmlUrl=""/>
+            <outline type="rss" text="Tecnocast" title="Tecnocast" xmlUrl="https://feeds.buzzsprout.com/2048054.rss" htmlUrl=""/>
+            <outline type="rss" text="Akitando" title="Akitando" xmlUrl="https://anchor.fm/s/14298150/podcast/rss" htmlUrl=""/>
         </outline>
         <outline text="Youtube" title="youtube">
-            <outline type="rss" text="Andrezitos" title="Andrezitos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpHJWUQ3WKQ1YtZFk3tAtrg" htmlUrl=""/>
+            <outline type="rss" text="Sir Rob Linux Brasil" title="Sir Rob Linux Brasil" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=@SirRobLinux" htmlUrl=""/>
         </outline>
     </body>
 </opml>
