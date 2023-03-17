@@ -12,13 +12,19 @@
             <outline type="rss" text="GamingOnLinux Latest Articles" title="GamingOnLinux Latest Articles" xmlUrl="http://www.gamingonlinux.com/article_rss.php" htmlUrl="https://www.gamingonlinux.com/"/>
         </outline>
         <outline text="Noticias" title="Noticias">
-            <outline type="rss" text="Best posts on r/cellbits" title="Best posts on r/cellbits" xmlUrl="https://api.reddit.com/subreddit/cellbits;best" htmlUrl="https://www.reddit.com/r/cellbits/best"/>
             <outline type="rss" text="Adrenaline" title="Adrenaline" xmlUrl="https://adrenaline.uol.com.br/rss" htmlUrl="https://adrenaline.com.br/rss"/>
             <outline type="rss" text="Mundo Conectado" title="Mundo Conectado" xmlUrl="https://mundoconectado.com.br/site/rss" htmlUrl="https://mundoconectado.com.br/site/rss"/>
             <outline type="rss" text="Tudocelular.com" title="Tudocelular.com" xmlUrl="http://www.tudocelular.com/rss.asp" htmlUrl="https://www.tudocelular.com"/>
-        </outline>
-        <outline text="Outros" title="Outros">
             <outline type="rss" text="Steam" title="Steam" xmlUrl="http://store.steampowered.com/feeds/news.xml" htmlUrl="http://www.steampowered.com/"/>
+        </outline>
+        <outline text="Reddit" title="Reddit">
+            <outline type="rss" text="Cellbit Reddit" title="Cellbit Reddit" xmlUrl="https://www.reddit.com/r/cellbits/.rss" htmlUrl=""/>
+        </outline>
+        <outline text="Podcast" title="Podcast">
+
+        </outline>
+        <outline text="Youtube" title="youtube">
+            <outline type="rss" text="Sir Rob Linux Brasil" title="Sir Rob Linux Brasil" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=@SirRobLinux" htmlUrl=""/>
         </outline>
     </body>
 </opml>
